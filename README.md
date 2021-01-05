@@ -22,5 +22,4 @@ Puede chequear el dataset en la siguiente dirección:
 
 ## Licencia
 
-El contenido de este proyecto esta licencia bajo la [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/), 
-y el código fuente usadao para mostrar este contenido esta licenciado bajo la  [MIT license](http://opensource.org/licenses/mit-license.php).
+El set de datos utilizado para este proyecto tiene licencia bajo la GNU General Public License
